@@ -1,0 +1,14 @@
+.ramiro {
+    display: flex;
+    flex-wrap: wrap;
+    border: green solid 5px;
+    padding: 5px;
+    background-image: url("https://media3.giphy.com/media/VeMfDj4KctWsUEfs1L/giphy.gif?cid=ecf05e47j42h75002a5x6fdm1nd2l0d8jmj6wjctz9otjuv1&rid=giphy.gif&ct=g");
+    background-size: cover;
+}
+.interest {
+    border: red dotted 2px;
+    margin: 3px;
+    color: turquoise;
+}
+ 
