@@ -12,6 +12,21 @@
     width: 30%;
 }
 
+@keyframes pulse {
+    0% {
+    color: rgb(104, 236, 15);
+    }
+    100% {
+      color: black;
+      }
+  }
+.crazy-words { 
+    animation: pulse .02s infinite;  
+    color: rgb(41, 41, 41);
+    font-size: 30px;
+    transform: rotate(180deg);
+}
+
 .image img {
     position: fixed;
 }
