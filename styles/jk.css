@@ -8,11 +8,11 @@ body{
 }
 
 .jake{
-background-image: url("https://w0.peakpx.com/wallpaper/24/389/HD-wallpaper-deadhead-bears-band-colors-dead-head-grateful-dead-pattern-spiral.jpg");
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-color: whitesmoke;
+    background-image: url("https://w0.peakpx.com/wallpaper/24/389/HD-wallpaper-deadhead-bears-band-colors-dead-head-grateful-dead-pattern-spiral.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    color: whitesmoke;
 
 
 

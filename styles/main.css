@@ -1,1 +1,12 @@
  
+@import url(laci.css);
+@import url(jk.css);
+@import url(ramiro.css);
+
+
+
+ body {
+    margin: 0px;
+    padding: 0px;
+   background-color: black;
+   
