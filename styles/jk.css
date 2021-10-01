@@ -1,0 +1,52 @@
+
+
+
+
+body{ 
+
+
+}
+
+.jake{
+background-image: url("https://w0.peakpx.com/wallpaper/24/389/HD-wallpaper-deadhead-bears-band-colors-dead-head-grateful-dead-pattern-spiral.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: whitesmoke;
+
+
+
+
+
+}
+.one {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: column;
+    justify-content: space-around;
+    color: greenyellow ;
+    text-align: center;
+
+}
+
+
+.button {
+
+      border: none;
+      color: rgb(87, 231, 142);
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+
+}
+.style1 {
+ display: flex;
+ justify-content: center;
+ flex-direction: row;
+}
+
