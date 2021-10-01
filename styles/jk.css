@@ -19,6 +19,14 @@ body{
 
 
 }
+@keyframes pulse {
+    0% {
+    color: rgb(104, 236, 15);
+    }
+    100% {
+      color: black;
+      }
+  }
 .one {
     display: flex;
     flex-wrap: wrap-reverse;
@@ -26,7 +34,7 @@ body{
     justify-content: space-around;
     color: greenyellow ;
     text-align: center;
-
+    animation: pulse .02s infinite; 
 }
 
 
